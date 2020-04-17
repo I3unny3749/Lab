@@ -6,3 +6,4 @@ Link to lab
 
 [LAB2](/Lab2/เนื้อหา.md)
 
+[LAB4](/Lab4/แนวคิด.md)
