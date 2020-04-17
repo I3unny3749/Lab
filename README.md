@@ -6,4 +6,4 @@ Link to lab
 
 [LAB2](/Lab2/เนื้อหา.md)
 
-[LAB4](/https://drive.google.com/open?id=1GsNwLtZhCCJ2qRwWeQmAVvzfzTAzyTR4.md)
+[LAB4](/https://drive.google.com/open?id=1GsNwLtZhCCJ2qRwWeQmAVvzfzTAzyTR4)
